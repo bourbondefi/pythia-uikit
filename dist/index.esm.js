@@ -3661,7 +3661,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/PythiaOracle",
+                href: "https://t.me/pythiamarketchat",
             },
         ],
     },
